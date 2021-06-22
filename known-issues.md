@@ -1,0 +1,1 @@
+profilediv doesnt really block it's display when hidden, so it doesnt let u scroll discord channels
